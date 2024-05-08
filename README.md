@@ -3,6 +3,7 @@
 
 # Feature description
 
+## Numeric
 LotFrontage: Linear feet of street connected to property
 
 LotArea: Lot size in square feet
@@ -20,6 +21,8 @@ GarageCars: Size of garage in car capacity
 WoodDeckSF: Wood deck area in square feet
 
 ScreenPorch: Screen porch area in square feet
+
+## Unordered Categorical
 
 MSZoning: Identifies the general zoning classification of the sale.
 
@@ -71,6 +74,8 @@ Foundation: Type of foundation
        Slab	Slab
        Stone	Stone
        Wood	Wood
+
+## Ordered Categorical
 
 ExterQual: Evaluates the quality of the material on the exterior
 
